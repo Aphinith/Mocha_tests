@@ -1,4 +1,4 @@
-exports.rgbToHex = function(red, gree, blue) {
+exports.rgbToHex = function(red, green, blue) {
 
   var redHex = red.toString(16);
   var greenHex = green.toString(16);
